@@ -33,5 +33,5 @@ A comprehensive bibliometric analysis tool that integrates with the Scopus API t
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/yourusername/scopus-bibliometric-tool.git
+   git clone https://github.com/vsreddy/Scopus_Bibliometric_Analyzer.git
    cd scopus-bibliometric-tool
