@@ -1,8 +1,12 @@
 # Scopus Bibliometric Analysis Tool 📊🔍
 
 A comprehensive bibliometric analysis tool that integrates with the Scopus API to provide real-time research insights and visualizations.
+![image](https://github.com/user-attachments/assets/43ec01d6-c42d-432b-abe7-247e891bd187)
 
-![Demo Screenshot](screenshot.png) *Add actual screenshot after deployment*
+![image](https://github.com/user-attachments/assets/b7e09337-e631-45e3-82d2-6894c093f605)
+![image](https://github.com/user-attachments/assets/f7c97587-8a20-42b2-adba-261f5751c7af)
+
+
 
 ## Features ✨
 
